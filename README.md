@@ -55,7 +55,7 @@
 ## Connect with me:
 
 <p align="left">
-<a href = "https://twitter.com/tejsrelax><img src="https://img.icons8.com/fluency/48/000000/twitter.png"/></a>
+<a href = "https://twitter.com/tejsrelax"><img src="https://img.icons8.com/fluency/48/000000/twitter.png"/></a>
 <a href = "https://bit.ly/tejslinkedin"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.instagram.com/tejs._/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
