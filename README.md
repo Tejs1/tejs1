@@ -37,8 +37,7 @@
 </p>
 
 ## 📊 My Github Stats
-
-  <br/>
+<br/>
     <a><img alt="Tejas Thorat's Github Stats" src="https://github-readme-stats.vercel.app/api?username=tejs1&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a><img alt="Tejas Thorat's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejs1&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
