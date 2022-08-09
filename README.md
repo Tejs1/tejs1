@@ -5,7 +5,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **[Go From Professional Web Developer to Lead Engineer](https://frontendmasters.com/learn/professional/)**
+- 🌱 I’m currently learning **[FullStack Web Development at Neog.camp](https://neog.camp)**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
