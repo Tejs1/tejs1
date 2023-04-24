@@ -5,12 +5,12 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **[FullStack Web Development at Neog.camp](https://neog.camp)**
+- 🌱 I’m currently working on  **[ShotQuality.com]([https://neog.camp](https://shotquality.com/))**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[tejs.me](https://tejs.me)**
-
+<!-- - 👨‍💻 All of my projects are available at **[tejs.me](https://tejs.me)**
+ -->
 - 📫 How to reach me **tejsrelax@gmail.com**
 
 - ⚡ Fun fact **I play [Valorant](https://playvalorant.com/en-us/) and love to travel.**
