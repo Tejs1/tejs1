@@ -33,7 +33,7 @@ Software engineer working on **AI-powered customer-service products** — fronte
 ### Connect
 
 <p align="left">
-<a href="https://bit.ly/tejslinkedin"><img src="https://img.icons8.com/fluent/40/000000/linkedin.png"/></a>
+<a href="https://in.linkedin.com/in/tejasthorat"><img src="https://img.icons8.com/fluent/40/000000/linkedin.png"/></a>
 <a href="https://twitter.com/tejsrelax"><img src="https://img.icons8.com/fluency/40/000000/twitter.png"/></a>
 <a href="mailto:tejsrelax@gmail.com"><img src="https://img.icons8.com/fluency/40/000000/mail.png"/></a>
 </p>
